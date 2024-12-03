@@ -1,0 +1,9 @@
+*.exe
+*.app
+*.zip
+
+Thumbs.db
+*.DS_Store
+*.swp
+
+/dist
